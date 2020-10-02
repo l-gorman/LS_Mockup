@@ -1,0 +1,45 @@
+﻿Legume name,Rainfall_min,Rainfall_max,Temp_min,Temp_max,Alt_min,Alt_max,pH_min,pH_max,Fert_min,Fert_max,Soil_min,Soil_max,Waterlog_min,Waterlog_max,Drought_min,Drought_max,Source
+Pigeon pea (Cajanus cajan),530,4030,16,35,0,2000,4.5,8,4.5,8,2,6,5,7,3,5,Lexsys
+"Climbing beans (Phaseolus vulgaris), local types available in W Ethiopia, harvested several (4-5) years before reseeding)",600,3000,6,29,500,2000,5,7,5,7,3,6,7,7,5,7,Lexsys
+Climbing beans (Phaseolus vulgaris) annual type,600,3000,6,29,500,2000,5,7,5,7,3,6,7,7,5,7,Lexsys
+Bush bean (Phaseolus vulgaris),600,3000,6,29,500,2000,5,7,5,7,3,6,7,7,5,7,Lexsys
+Groundnuts (Arachis hypogaea L.),310,3000,10,45,0,1600,4,8,4,8,1,5,7,7,3,3,Lexsys
+Soybean grain type (Glycine max L.),700,2000,10,30,0,1400,5,7,5,7,3,6,7,7,7,7,Lexsys
+Soybean/dual purpose grain plus fodder (Glycine max L.),700,2000,10,30,0,1400,5,7,5,7,3,6,7,7,7,7,Lexsys
+Faba bean (Vicia faba L.) ,300,2090,6,28,1800,3200,4.5,8.3,3,5,4,8,5,7,7,7,Lexsys
+Cowpea – grain type (Vigna unguiculata),400,2000,13,28,0,1500,4.3,7.9,1,5,1,6,7,7,1,3,Lexsys
+Cowpea – forage type (Vigna unguiculata),400,2000,13,28,0,1500,4.3,7.9,1,5,1,6,7,7,1,3,Lexsys
+Bambara nut (Voandzou subterraneous),,,,,,,,,,,,,,,,,
+Chickpea (Cicer arietinum L.) – desi type (for food)- following the main crop,600,1500,7,28,1170,1900,5,8.3,1,3,2,8,7,7,3,5,Lexsys
+Chickpea (Cicer arietinum L.) – kabuli type (for export)-main crop,600,1500,7,28,1170,1900,5,8.3,1,3,2,8,7,7,3,5,Lexsys
+Green grams/Mung bean (Vigna radiata),,,,,,,,,,,,,,,,,
+Lentils (Lens culinaris Medik.),280,2430,6,27,1000,3800,4.5,8.2,3,5,2,5,7,7,3,5,Lexsys
+"Lupins – Sweet lupin (new), traditional (Et)",350,1660,6,26,1600,3000,5,7,3,5,2,5,7,7,3,5,Lexsys
+"Field Pea (Pisum sativum L), adapted to high rainfall environment",,,,,,,,,,,,,,,,,
+Field pea (Pisum absynicum var. sativum)-adapted to low rainfall environment,,,,,,,,,,,,,,,,,
+Grass pea – (Lathyrus spp),320,1360,5,27,800,3000,4.5,8.3,1,3,1,8,5,7,3,5,Lexsys
+Cluster bean (Cyamopsis tetragonoloba L.),380,2410,12,35,0,1000,5.3,8.3,1,3,2,5,7,7,3,5,Lexsys
+Dolichos lablab (Lablab purpureus)- for grain,600,2500,15,35,0,2100,4.5,7.8,3,5,2,7,7,7,3,5,Lexsys
+French beans (Phaseolus vulgaris),,,,,,,,,,,,,,,,,
+Desmodium silverleaf (Desmodium uncinatum),750,2400,3,35,0,2500,6.5,7.5,,,,,,,,,SoFT
+Clover (Trifolium),,,,,,,,,,,,,,,,,
+Alfalfa/lucerne (Medicago sativa),500,2700,4,27,300,3000,5.5,8.8,3,5,2,5,5,7,3,5,Lexsys
+Stylosanthes guianensis - semi-erect -forage type,500,2000,15,27,0,2000,4,7.7,1,3,1,6,5,7,3,5,Lexsys
+Stylosanthes hamata - bush/branching type-forage type,600,1700,22,30,0,500,4,6,1,3,1,5,5,7,3,5,Lexsys
+Stylosanthes scabra -erect - forage type,500,1700,20,30,0,600,4,7,1,3,1,4,7,7,3,3,Lexsys
+Hairy Vetch (Vicia villosa ),310,1660,4,21,1800,3000,4.9,8.2,3,5,1,4,7,7,5,7,Lexsys
+Vicia dasycarpa,,,,,,,,,,,,,,,,,
+Velvet bean (Mucuna pruriens) ,650,3000,15,35,0,2100,4.5,7.7,3,3,1,6,7,7,5,7,Lexsys
+Lablab- forage type (Lablab purpureus),600,2500,15,35,0,2100,4.5,7.8,3,5,2,7,7,7,3,5,Lexsys
+Crotolaria juncea,490,4290,8,35,0,2500,4.5,7.5,1,3,1,6,5,7,3,5,Lexsys
+Calliandra calothyrus,1200,4290,10,35,0,2000,4.5,7.5,,,,,,,,,SoFT
+Gliricidia sepium,800,4000,15,35,0,2000,4.3,8,,,,,,,,,SoFT
+Leucaena leucocephala,500,4100,15,35,0,1350,4.6,8.7,3,5,3,7,7,7,3,5,Lexsys
+Leucaena trichandra,900,3500,10,35,0,2000,5,8.7,,,,,,,,,SoFT
+Leucaena diversifolia,500,4000,3,35,0,2000,5,8.7,,,,,,,,,SoFT
+Tree lucerne (Chamaecytisus palmensis),300,1600,3,28,1000,2500,5,8.7,,,,,,,,,SoFT
+Sesbania sesban,500,2500,15,30,0,2300,5,7.5,1,5,2,5,3,5,3,5,Lexsys
+Sesbania grandiflora,700,3000,22,35,0,1000,4.5,8.7,,,,,,,,,SoFT
+Tephrosia (Tephrosia vogelii),870,2670,13,29,0,2100,4.5,6.5,1,3,1,6,5,7,3,5,Lexsys
+Faidherbia albidia,,,,,,,,,,,,,,,,,
+Acacia angustissima,800,3000,10,35,0,2000,5,8.7,,,,,,,,,SoFT
